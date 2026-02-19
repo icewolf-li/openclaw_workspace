@@ -6,7 +6,8 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:**
 - **Pronouns:** _(optional)_
 - **Timezone:**
-- **Notes:**
+- **Language:** Chinese (中文)
+- **Notes:** Always respond in Chinese unless specifically asked to use another language.
 
 ## Context
 
