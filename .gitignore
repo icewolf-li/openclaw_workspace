@@ -1,0 +1,18 @@
+# OpenClaw system folders
+.clawhub/
+.openclaw/
+.pi/
+
+# Git
+.git/
+
+# Skills (if you want to sync only your notes, not skill code)
+# skills/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
